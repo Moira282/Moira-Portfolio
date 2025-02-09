@@ -30,12 +30,16 @@ Followed a **structured psychometric approach** to develop a new measurement sca
 - **Cronbach’s Alpha**:  
   - Initial scale reliability: **0.64 (weak/questionable)**.  
   - Factor analysis suggested eliminating weakly correlated items.
-  - After refinement: **0.78 (acceptable)**.  
+![image](https://github.com/user-attachments/assets/11d3c49e-5255-4ee2-8ba7-3317683269a3)
+  - After refinement: **0.78 (acceptable)**.
+![image](https://github.com/user-attachments/assets/4dd1655b-51da-4437-94fe-640f82d76c69)
 - **Factor Analysis (PCA)**:  
   - Confirmed a **2-factor structure** (Reduced Work Performance & Depersonalization).
   - During the statistical analysis, the **Emotional Exhaustion was eliminated** due to low reliability and poor correlation with the overall burnout construct.
+![image](https://github.com/user-attachments/assets/3ab3f376-b99f-4e2c-8b95-22d312606d23)  
 - **External Validation**:  
   - Compared with **Barraza’s Burnout Scale** → **r = 0.8 (high correlation)**.  
+![image](https://github.com/user-attachments/assets/a284aafc-fe0c-44d4-8575-849dc73c3115)
 
 ---
 
@@ -45,11 +49,10 @@ Followed a **structured psychometric approach** to develop a new measurement sca
    2. **Depersonalization**  
 
 ✔️ **Improved reliability** (α = **0.78**).  
-![image](https://github.com/user-attachments/assets/4dd1655b-51da-4437-94fe-640f82d76c69)
 
 ✔️ **Confirmed burnout risk factors** in student workers:  
    - Decreased concentration and productivity.  
-   - Emotional detachment and negative self-perception.  
+   - Emotional detachment and negative self-perception.
 
 ✔️ **Practical Implications**:  
    - Provides a **targeted tool** for measuring burnout in working students.  
