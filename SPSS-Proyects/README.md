@@ -56,12 +56,6 @@ Followed a **structured psychometric approach** to develop a new measurement sca
 
 ---
 
-## 📂 Files & Data  
-📄 `burnout_data.sav` → SPSS dataset (survey responses).  
-📄 `burnout_analysis.sps` → SPSS syntax for statistical analysis.  
-📄 `burnout_results.xlsx` → Excel summary of key findings.  
-
----
 
 ### 📧 Contact  
 👩‍💻 **Author:** [Moira Saldaña](https://github.com/moira282)  
