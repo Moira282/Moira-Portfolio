@@ -6,6 +6,6 @@ I'm transitioning from Neuropsychology to Tech, specializing in Data Analysis.
 - 🎯 Currently building projects on **Machine Learning, Business Intelligence, and Data Storytelling**  
 
 
-# 📌 Let's Connect!  🔗 [LinkedIn](https://www.linkedin.com/in/moira-saldaña-b658092b9)  
+**📌 Let's Connect!** 🔗 [LinkedIn](https://www.linkedin.com/in/moira-saldaña-b658092b9)  
 
 
