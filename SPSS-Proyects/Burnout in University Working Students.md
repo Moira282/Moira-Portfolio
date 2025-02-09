@@ -45,6 +45,7 @@ Followed a **structured psychometric approach** to develop a new measurement sca
    2. **Depersonalization**  
 
 ✔️ **Improved reliability** (α = **0.78**).  
+![image](https://github.com/user-attachments/assets/4dd1655b-51da-4437-94fe-640f82d76c69)
 
 ✔️ **Confirmed burnout risk factors** in student workers:  
    - Decreased concentration and productivity.  
