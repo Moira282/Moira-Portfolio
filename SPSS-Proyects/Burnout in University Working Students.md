@@ -1,4 +1,4 @@
-# 📊 Burnout in University Working Students  
+# 📊 Burnout in University Employed Students  
 **Development and Validation of a Measurement Scale**  
 
 ## 📌 Problem Statement  
@@ -44,6 +44,9 @@ Followed a **structured psychometric approach** to develop a new measurement sca
   - Compared with **Barraza’s Burnout Scale** → **r = 0.8 (high correlation)**.  
 
 ![image](https://github.com/user-attachments/assets/a284aafc-fe0c-44d4-8575-849dc73c3115)
+
+**Final Scale** 
+![image](https://github.com/user-attachments/assets/18328465-b51b-4b96-aca1-799dbc9e0f05)
 
 ---
 
