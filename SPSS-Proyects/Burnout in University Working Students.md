@@ -45,7 +45,7 @@ Followed a **structured psychometric approach** to develop a new measurement sca
 
 ![image](https://github.com/user-attachments/assets/a284aafc-fe0c-44d4-8575-849dc73c3115)
 
-### **4️⃣ Final Scale **
+### **4️⃣ Final Scale**  
 
 ![image](https://github.com/user-attachments/assets/18328465-b51b-4b96-aca1-799dbc9e0f05)
 
