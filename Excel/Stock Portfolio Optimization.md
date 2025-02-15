@@ -40,7 +40,6 @@
 - **Portfolio Metrics Calculated:**
   - **Expected Return** (Weighted Average)
   - **Portfolio Variance & Standard Deviation** (Risk Measure)
-  - **Sharpe Ratio** (Risk-Adjusted Return)
 
 ---
 
